@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Tilt+Neon&display=swap');
+
+
+.window-game{
+    margin-top: 10px;
+    margin-left: 5px;
+    background-color: gray;
+    width: 70%;
+    height: 1200px;
+    border: 2px solid #3333FF;
+    
+    font-family: 'Tilt Neon', cursive;
+    font-size: larger;
+
+
+}
+
+.principal-base{
+    margin-top: 10px;
+    display: flex;
+    flex-direction: row;
+    gap: 5px;
+}
+
+.title-game{
+    text-align: center;
+    color: #3333FF;  
+}
+
+
+
+
